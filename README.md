@@ -1,6 +1,6 @@
 ## 👋 Hey there! I’m @avinash-s-dod (Avinash Dod)
 
-💻 A passionate **Full Stack Developer** with over **3 years of experience**, crafting seamless user experiences using **React.js** and **React Native**.
+💻 A passionate **Full Stack Developer** with over **3+ years of experience**, crafting seamless user experiences using **React.js** and **React Native**.
 
 ### 🚀 Tech Arsenal
 - **Frontend:** React.js, React Native, JavaScript (JS), TypeScript (TS), Redux  
